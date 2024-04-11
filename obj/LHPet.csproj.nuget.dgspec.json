@@ -1,0 +1,89 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\carlosalberto\\Dropbox\\CURSOS\\SENAI\\UC010 - Codificação Back-End\\Atividades\\10e - SP3 - Atividade 5 - Implantação Web MVC\\CodBack_MVC_Arquivos_da_Atividade_Aluno\\LHPet\\LHPet.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\carlosalberto\\Dropbox\\CURSOS\\SENAI\\UC010 - Codificação Back-End\\Atividades\\10e - SP3 - Atividade 5 - Implantação Web MVC\\CodBack_MVC_Arquivos_da_Atividade_Aluno\\LHPet\\LHPet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\carlosalberto\\Dropbox\\CURSOS\\SENAI\\UC010 - Codificação Back-End\\Atividades\\10e - SP3 - Atividade 5 - Implantação Web MVC\\CodBack_MVC_Arquivos_da_Atividade_Aluno\\LHPet\\LHPet.csproj",
+        "projectName": "LHPet",
+        "projectPath": "C:\\Users\\carlosalberto\\Dropbox\\CURSOS\\SENAI\\UC010 - Codificação Back-End\\Atividades\\10e - SP3 - Atividade 5 - Implantação Web MVC\\CodBack_MVC_Arquivos_da_Atividade_Aluno\\LHPet\\LHPet.csproj",
+        "packagesPath": "C:\\Users\\carlosalberto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carlosalberto\\Dropbox\\CURSOS\\SENAI\\UC010 - Codificação Back-End\\Atividades\\10e - SP3 - Atividade 5 - Implantação Web MVC\\CodBack_MVC_Arquivos_da_Atividade_Aluno\\LHPet\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\carlosalberto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

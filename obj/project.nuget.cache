@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "StRZ+BP4ZSRTAf+hAz67N1o0e8f+EHqSzBrU2kbOsBJZx6KNUfbOZXZLwyypFfqB/yygHBdW/MClqhamM5NpfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\carlosalberto\\Dropbox\\CURSOS\\SENAI\\UC010 - Codificação Back-End\\Atividades\\10e - SP3 - Atividade 5 - Implantação Web MVC\\CodBack_MVC_Arquivos_da_Atividade_Aluno\\LHPet\\LHPet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carlosalberto\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\carlosalberto\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\carlosalberto\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\carlosalberto\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
